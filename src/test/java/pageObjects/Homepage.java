@@ -40,6 +40,7 @@ public void emailAddress(String email)
 public void clickSignUp()
 {
 	btnSignUp.click();
+	system.out.println("clicked on sign up button"); 
 }
 
 }
